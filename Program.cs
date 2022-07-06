@@ -44,6 +44,6 @@ namespace Task_45_Fight
 
     class Fighter
     {
-
+        public int Health { get; private set; }
     }
 }
